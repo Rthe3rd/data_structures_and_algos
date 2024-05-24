@@ -22,6 +22,7 @@
 # So Big O for these processes are Olog(N) -> very efficient! 
     # technically, worst case scenario BST becomes a linked list and thus everything is O(n), aside from insert which is O(1)
 
+
 class BST:
     # def __init__(self, value):
         # new_node = Node(value)
